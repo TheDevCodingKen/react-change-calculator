@@ -6,7 +6,7 @@ export class Header extends React.Component {
     return (
       <div className='headerContainer'>
         <header>
-          <h1 style={ { color: 'white' } }>Change Calculator</h1>
+          <h1 style={ { color: 'white' } }> React Change Calculator</h1>
         </header>
         <hr style={ { color: 'white' } } />
       </div>

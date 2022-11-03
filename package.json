@@ -7,7 +7,7 @@
   "main": "server/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/TheDevCodingKen/react-change-calculator.git"
   },
   "license": "MIT",
   "scripts": {

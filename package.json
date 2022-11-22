@@ -60,7 +60,6 @@
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
     "url-loader": "^0.5.9",
-    "webpack": "^4.46.0",
     "webpack-cli": "^4.10.0"
   }
 }

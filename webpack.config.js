@@ -1,4 +1,6 @@
 const path = require("path");
+const webpack = require("webpack"); // eslint-disable-line import/no-extraneous-dependencies
+const HtmlWebpackPlugin = require("html-webpack-plugin"); // eslint-disable-line import/no-extraneous-dependencies
 
 module.exports = {
   context: path.join(__dirname, "/src"),

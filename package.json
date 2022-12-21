@@ -9,7 +9,6 @@
     "type": "git",
     "url": "https://github.com/TheDevCodingKen/react-change-calculator.git"
   },
-  "license": "MIT",
   "scripts": {
     "build": "webpack --mode development",
     "start": "webpack --mode development && node server/index.js",
